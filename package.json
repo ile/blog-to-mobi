@@ -1,0 +1,16 @@
+{
+  "name": "blog-to-mobi",
+  "version": "0.1.0",
+  "description": "Blog to mobi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "blog-scraper": "*",
+    "moment": "^2.8.3",
+    "mongoskin": "*"
+  }
+}
